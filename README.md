@@ -39,6 +39,9 @@ Ensure the following libraries are installed:
 
 
 pandas 
+
 numpy 
+
 matplotlib 
+
 seaborn
